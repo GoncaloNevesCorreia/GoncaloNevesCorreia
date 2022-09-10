@@ -1,4 +1,4 @@
-## Gonçalo Correia | Desenvolvedor Front-end
+## Gonçalo Correia | Front-End Developer
 
 <a href="https://github.com/GoncaloNevesCorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloNevesCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
